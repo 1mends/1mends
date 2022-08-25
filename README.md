@@ -1,7 +1,7 @@
 ### Hi I'm Gustavo Mendes 👋
 
 - 🔭 Today I study and practice the front-end
-- 🌱 I'm currently learning | CSS | JavaScript | React |
+- 🌱 I'm currently learning | JavaScript | React |
 - 📫 How to reach me: https://www.instagram.com/_mendsz/ | gformosofso@gmail.com
 
 <div align="center">
